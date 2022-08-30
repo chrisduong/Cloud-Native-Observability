@@ -1,0 +1,6 @@
+[requires]
+python_version = '3.9'
+
+[packages]
+opentelemetry-api = '>= 1.12.0'
+opentelemetry-sdk = '>= 1.12.0'
